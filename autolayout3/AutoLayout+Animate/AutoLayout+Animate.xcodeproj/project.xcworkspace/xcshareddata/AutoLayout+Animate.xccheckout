@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67EE60A7-C20C-401D-85A6-9EE900555B0F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayout+Animate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7985D65B88A438FF32BBEBDEF2C6CE4A34A39DF0</key>
+		<string>github.com:Vienta/BlogArticle.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>autolayout3/AutoLayout+Animate/AutoLayout+Animate.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7985D65B88A438FF32BBEBDEF2C6CE4A34A39DF0</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Vienta/BlogArticle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7985D65B88A438FF32BBEBDEF2C6CE4A34A39DF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7985D65B88A438FF32BBEBDEF2C6CE4A34A39DF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlogArticle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
