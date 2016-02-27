@@ -45,7 +45,8 @@ buildConfiguration="QA"
 
 buildPath="../PackageShell/Package/ArchiveProduction/QA/${ipa_Name}_${buildTime}.xcarchive"
 
-ipaName="../PackageShell/Package/ipa/QA/${ipa_Name}_${buildTime}.ipa"
+#ipaName="../PackageShell/Package/ipa/QA/${ipa_Name}_${buildTime}.ipa"
+ipaName="../PackageShell/Package/ipa/QA/${ipa_Name}.ipa"
 
 xctool -workspace PackageExample.xcworkspace -scheme PackageExample -configuration ${buildConfiguration} clean
 
